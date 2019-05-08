@@ -27,6 +27,7 @@ TODO: Add long description of the pod here.
   s.author           = { 'levixie@gmail.com' => 'levixie@gmail.com' }
   s.source           = { :git => 'https://github.com/levixie/rnkit-actionsheet-picker.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source_files  = "ios/*.{h,m}"
 
   s.ios.deployment_target = '8.0'
 
